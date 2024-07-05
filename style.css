@@ -1,4 +1,22 @@
 div{
     background-color: aqua;
     color: brown;
+
+    margin: 30px;
+    padding: 10px;
+}
+
+
+div h2{
+    color: rgb(165, 42, 42);
+
+    
+}
+h3{
+    color: chartreuse;
+    background-color: black;
+}
+
+div ol{
+    background-color: rgb(176, 146, 213);
 }
